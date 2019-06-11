@@ -1,4 +1,4 @@
 # Tusbolled by deray
 
-import dark
-dark.menu()
+import interpreter
+interpreter.menu()
